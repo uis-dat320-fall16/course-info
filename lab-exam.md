@@ -1,7 +1,5 @@
 ###Lab Exam Information
 
-We will be organizing lab exams in this course.
-
 The lab exam will be held in **Week 48**.
 Exact day and time will be provided in a separate schedule.
  
@@ -32,8 +30,6 @@ both the lab exam and the written exam.
 
 
 ###Lab Exam Procedure
-
-The procedure for the lab exam is as follows:
 
 1. You are expected to come to the lab between 0700-0800 in morning of your
 exam date to set up the necessary terminal windows and otherwise prepare things
