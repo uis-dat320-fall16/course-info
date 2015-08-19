@@ -1,5 +1,7 @@
 ##Lecture and Lab Plan
 
+(Lab submission deadlines are marked with **bold**.)
+
 | W    |  Date     | Chap.     | Topic                                            | Teacher | Travels      |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  35  |  24/8     |   1       | Introduction to Operating Systems                |  Hein   |              |
