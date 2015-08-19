@@ -1,7 +1,8 @@
-##Lab Exam Procedure
+###Lab Exam Information
 
 We will be organizing lab exams in this course.
-The lab exam will be held in Week 48.
+
+The lab exam will be held in **Week 48**.
 Exact day and time will be provided in a separate schedule.
  
 1. Examination is individual and covers only lab 6 and 7. 
@@ -30,6 +31,8 @@ exam, but to get a final grade in the course, a passing grade is required for
 both the lab exam and the written exam.
 
 
+###Lab Exam Procedure
+
 The procedure for the lab exam is as follows:
 
 1. You are expected to come to the lab between 0700-0800 in morning of your
@@ -48,4 +51,3 @@ the lab. We will come and fetch you when it is your time.
    - General theory questions about the two labs.
    - Questions about Go programming language features used in the labs.
    - General questions about kernel programming.
-
