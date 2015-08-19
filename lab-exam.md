@@ -5,14 +5,21 @@ We will be organizing lab exams in this course (as was presented at the start of
 The lab exam will be held in Week 48. Exact day and time will be provided in a separate schedule.
  
 1. Examination is individual and covers only lab 6 and 7. 
+
 2. It is meant to be a demo session, where you show that your joint lab is working,
    and you will be asked to run different parts of the program(s) that you have developed,
    and we will also ask questions about the code.
+
 3. Students are expected to know and be able to explain all the code in the relevant lab exercises,
    even though your group partner wrote that particular piece of code.
+
 4. Your individual lab grade will be based on the lab handin and the lab exam.
+
 5. Your grade will be announced at a later time after all students have completed their lab exam.
- 
+
+6. If you have already passed the lab exam in a previous year, you do not need to do the lab
+   exercises again, if you only want to improve your written exam grade.
+
 The procedure for the lab exam is as follows:
  
 1. You are expected to come to the lab between 0700-0800 in morning of your exam date to set up
