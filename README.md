@@ -1,4 +1,4 @@
-# Course info for DAT320 Operating Systems
+# DAT320 Operating Systems
 
 ##Important: Sign up for Unix account
 
@@ -10,3 +10,4 @@ To be effective in the lab on Monday, it is important that you sign up for an ac
 
 Information about how to do a remote login to the Linux machines can be found here: http://wiki.ux.uis.no/foswiki/Info/WebHome and here: http://wiki.ux.uis.no/foswiki/Info/HvordanLoggeInnP%E5Unix-anlegget
 
+(Posted by Hein: Wednesday 19 Aug)
