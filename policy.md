@@ -28,6 +28,16 @@ exams, or other conflicting deadlines, you can use up to a total of
 will count negatively towards your lab grade. For each extra slip day used,
 your grade is reduced by 5 points.
 
+###Resubmission
+If any of the submitted lab handins are below passing level, you will be
+granted **one resubmission** per handin. Your grade will be reduced by
+
+* 5 points for the first resubmission
+* 10 points for the second resubmission
+* 20 points for the third resubmission
+
+A fourth resubmission will not be allowed, resulting in failing the lab.
+
 ##Approval Process
 
 Once you have passed the necessary tests for approval/grading of one of
