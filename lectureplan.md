@@ -6,17 +6,18 @@
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  35  |  24/8     |   1       | Introduction to Operating Systems                |  Hein   |              |
 |      |  24/8     |           | Getting started with Unix, git, github and Go    |  Hein   |              |
-|      |  25/8     |           | Getting started with Unix, git, github and Go    |  Hein   |              |
+|      |  25/8     |           | A Taste of Go                                    |  Hein   |              |
 |      |  27/8     | Lab 1     | Unix, programming tools and C                    |         |              |
 |  36  |  31/8     |           | Introduction to C programming                    |  Morten |              |
 |      |  31/8     |           | C programming: variables, pointers, and memory   |  Morten |              |
 |      |  1/9      |   2       | The Kernel Abstraction                           |  Hein   |              |
 |      |  **3/9**  | **Lab 1** | **Unix, programming tools and C**                |         |              |
 |  37  |  7/9      |   3       | The Programming Interface                        |  Hein   |              |
-|      |  7/9      |           | The Programming Interface                        |  Hein   |              |
+|      |  7/9      |           | Organizing Go Code                               |  Hein   |              |
 |      |  8/9      |   4       | Concurrency and Threads                          |  Hein   |              |
 |      |  10/9     | Lab 2     | Introduction to Go programming                   |         |              |
 |  38  |  14/9     |   4       | Concurrency and Threads                          |  Hein   |              |
+|      |  14/9     |           | Go Concurrency                                   |  Hein   |              |
 |      |  15/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
 |      |  **17/9** | **Lab 2** | **Introduction to Go programming**               |         |              |
 |  39  |  21/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
