@@ -21,31 +21,31 @@
 |      |  15/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
 |      |  **17/9** | **Lab 2** | **Introduction to Go programming**               |         |              |
 |  39  |  21/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
-|      |  22/9     |   6       | Advanced Synchronization                         |  Hein   |              |
+|      |  22/9     |   6       | Multi-Object Synchronization                     |  Hein   |              |
 |      |  **24/9** | **Lab 3** | **Network Programming with Go**                  |         |              |
-|  40  |  28/9     |   7       | Scheduling                                       |  Morten | Hein@SRDS    |
+|  40  |  28/9     |           | No lecture                                       |         | Hein@SRDS    |
 |      |  29/9     |           | No lecture                                       |         |     "        |
 |      |  **1/10** | **Lab 4** | **Programming Tools**                            |         |              |
-|  41  |  5/10     |   8       | Address Translation                              |  Morten | Hein@SOSP    |
+|  41  |  5/10     |   7       | Scheduling                                       |  Morten | Hein@SOSP    |
 |      |  6/10     |           | No lecture                                       |         |     "        |
 |      |  8/10     | Lab 5     | Threads and Protection                           |         |              |
-|  42  | 12/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
-|      | 13/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
+|  42  | 12/10     |   6       | Multi-Object Synchronization                     |  Hein   |              |
+|      | 13/10     |   8       | Address Translation                              |  Hein   |              |
 |      | **15/10** | **Lab 5** | **Threads and Protection**                       |         |              |
-|  43  | 19/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
+|  43  | 19/10     |   8       | Address Translation                              |  Hein   |              |
 |      | 20/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
 |      | 22/10     | Lab 6     | Linux Kernel IO Driver                           |         |              |
-|  44  | 26/10     |           |                                                  |  Hein   |              |
-|      | 27/10     |           |                                                  |  Hein   |              |
+|  44  | 26/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
+|      | 27/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
 |      | 29/10     | Lab 6     | Linux Kernel IO Driver                           |         |              |
-|  45  |  2/11     |           |                                                  |         |              |
-|      |  3/11     |           |                                                  |         |              |
+|  45  |  2/11     |  10       | Advanced Memory Management                       |  Hein   |              |
+|      |  3/11     |  11       | File Systems                                     |  Hein   |              |
 |      |  **5/11** | **Lab 6** | **Linux Kernel IO Driver**                       |         |              |
-|  46  |  9/11     |           |                                                  |         |              |
-|      | 10/11     |           |                                                  |         |              |
+|  46  |  9/11     |  12       | Storage Devices                                  |  Hein   |              |
+|      | 10/11     |  13       | Files and Directories                            |  Hein   |              |
 |      | 12/11     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
-|  47  | 16/11     |           |                                                  |         |              |
-|      | 17/11     |           |                                                  |         |              |
+|  47  | 16/11     |  14       | Reliable Storage                                 |  Hein   |              |
+|      | 17/11     |  14       | Reliable Storage                                 |  Hein   |              |
 |      | **19/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |  48  | 24/11     |           | Lab Handin (w/5 slip days)                       |         |              |
 |      | 27/11     |           | Final Handin Date (w/reduced grade)              |         |              |
