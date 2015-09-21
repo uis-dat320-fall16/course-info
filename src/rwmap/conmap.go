@@ -6,13 +6,13 @@ import (
 	"time"
 )
 
-type syncmap struct {
+type conmap struct {
 	ma map[string]string
 	mu *sync.Mutex
 }
 
-func xTMPCHANGEmain() {
-	smap := &syncmap{make(map[string]string), &sync.Mutex{}}
+func xmain() {
+	smap := &conmap{make(map[string]string), &sync.Mutex{}}
 
 	for i := 0; i < 1000; i++ {
 		go func() {
@@ -24,7 +24,7 @@ func xTMPCHANGEmain() {
 		}()
 	}
 
-	for i := 0; i < 1000; i++ {
+	for i := 0; i < 100; i++ {
 		go func(j int) {
 			val := fmt.Sprintf("meling %d", j)
 			for {
@@ -38,13 +38,13 @@ func xTMPCHANGEmain() {
 	<-ch
 }
 
-func (m *syncmap) lookup(key string) string {
+func (m *conmap) lookup(key string) string {
 	m.mu.Lock()
 	defer m.mu.Unlock()
 	return m.ma[key]
 }
 
-func (m *syncmap) insert(key, value string) {
+func (m *conmap) insert(key, value string) {
 	m.mu.Lock()
 	defer m.mu.Unlock()
 	m.ma[key] = value

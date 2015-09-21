@@ -2,17 +2,16 @@ package main
 
 import (
 	"fmt"
-	"sync"
 	"time"
 )
 
-type syncmap struct {
+type rwlockmap struct {
 	ma map[string]string
-	mu *sync.Mutex
+	rw *RWLock
 }
 
-func xTMPCHANGEmain() {
-	smap := &syncmap{make(map[string]string), &sync.Mutex{}}
+func main() {
+	smap := &rwlockmap{make(map[string]string), NewRWLock()}
 
 	for i := 0; i < 1000; i++ {
 		go func() {
@@ -24,7 +23,7 @@ func xTMPCHANGEmain() {
 		}()
 	}
 
-	for i := 0; i < 1000; i++ {
+	for i := 0; i < 100; i++ {
 		go func(j int) {
 			val := fmt.Sprintf("meling %d", j)
 			for {
@@ -38,14 +37,14 @@ func xTMPCHANGEmain() {
 	<-ch
 }
 
-func (m *syncmap) lookup(key string) string {
-	m.mu.Lock()
-	defer m.mu.Unlock()
+func (m *rwlockmap) lookup(key string) string {
+	m.rw.startRead()
+	defer m.rw.doneRead()
 	return m.ma[key]
 }
 
-func (m *syncmap) insert(key, value string) {
-	m.mu.Lock()
-	defer m.mu.Unlock()
+func (m *rwlockmap) insert(key, value string) {
+	m.rw.startWrite()
+	defer m.rw.doneWrite()
 	m.ma[key] = value
 }
