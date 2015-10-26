@@ -35,17 +35,17 @@
 |  43  | 19/10     |   8       | Address Translation                              |  Hein   |              |
 |      | 20/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
 |      | 22/10     | Lab 6     | Linux Kernel IO Driver                           |         |              |
-|  44  | 26/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
-|      | 27/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
+|  44  | 26/10     |  10       | Advanced Memory Management                       |  Hein   |              |
+|      | 27/10     |  11       | File Systems                                     |  Hein   |              |
 |      | 29/10     | Lab 6     | Linux Kernel IO Driver                           |         |              |
-|  45  |  2/11     |  10       | Advanced Memory Management                       |  Hein   |              |
-|      |  3/11     |  11       | File Systems                                     |  Hein   |              |
+|  45  |  2/11     |  12       | Storage Devices                                  |  Hein   |              |
+|      |  3/11     |  13       | Files and Directories                            |  Hein   |              |
 |      |  **5/11** | **Lab 6** | **Linux Kernel IO Driver**                       |         |              |
-|  46  |  9/11     |  12       | Storage Devices                                  |  Hein   |              |
-|      | 10/11     |  13       | Files and Directories                            |  Hein   |              |
+|  46  |  9/11     |  14       | Reliable Storage                                 |  Hein   |              |
+|      | 10/11     |  14       | Reliable Storage                                 |  Hein   |              |
 |      | 12/11     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
-|  47  | 16/11     |  14       | Reliable Storage                                 |  Hein   |              |
-|      | 17/11     |  14       | Reliable Storage                                 |  Hein   |              |
+|  47  | 16/11     |           |                                                  |  Hein   |              |
+|      | 17/11     |           |                                                  |  Hein   |              |
 |      | **19/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |  48  | 24/11     |           | Lab Handin (w/5 slip days)                       |         |              |
 |      | 27/11     |           | Final Handin Date (w/reduced grade)              |         |              |
