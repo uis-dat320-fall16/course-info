@@ -1,7 +1,7 @@
 # Autograder
 
-Autograder is a new tool for students and teaching staff for submitting and
-validating lab assignments and has been developed at the University of Stavanger.
+Autograder is a tool for students and teaching staff to manage the submition and
+validating lab assignments. Autograder has been developed at the University of Stavanger.
 All lab submissions from students are handled using Git, a source code
 management system, and GitHub, a web-based hosting service for Git source
 repositories.
@@ -38,16 +38,16 @@ project in Autograder.
 
 2. In the Courses menu select “Join a course”. Available courses will be listed.
 
-3. Find the course “uis-dat320” and click Sign up.
+3. Find the course “uis-dat320-fall16” and click Sign up.
 
 4. Read through and accept the terms. You will then be invited to the
-   organization [uis-dat320](http://www.github.com/uis-dat320) on GitHub.
+   organization [uis-dat320-fall16](http://www.github.com/uis-dat320-fall16) on GitHub.
 
 5. An invitation will be sent to the email address registered with your GitHub
    account. Accept the invitation using the received email.
 
 6. Wait for the teaching staff to verify your Autograder-registration.
 
-7. You will get your own repository in the organization "uis-dat320" on GitHub
+7. You will get your own repository in the organization "uis-dat320-fall16" on GitHub
    after your registration is verified. You will also have access to the
    feedback pages for this course on Autograder.
