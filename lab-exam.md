@@ -1,6 +1,6 @@
 ###Lab Exam Information
 
-The lab exam will be held in **Week 48**.
+The lab exam will be held in **Week 47**.
 Exact day and time will be provided in a separate schedule.
  
 1. Examination is individual and covers only lab 6 and 7. 
