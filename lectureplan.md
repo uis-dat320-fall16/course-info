@@ -2,7 +2,7 @@
 
 (Lab submission deadlines are marked with **bold**.)
 
-| W    |  Date     | Chap.     | Topic                                            | Teacher | Travels      |
+| W    |  Date     | Chap.     | Topic                                            | Teacher | Travels / Notes     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  34  |  24/8     |   1       | Introduction to Operating Systems                |  Hein   |              |
 |      |  24/8     |           | Go for Java Programmers                          |  Hein   |              |
@@ -22,13 +22,13 @@
 |  39  |  28/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
 |      |  28/9     |   6       | Multi-Object Synchronization                     |  Hein   |              |
 |      |  **30/9** | **Lab 4** | **Programming Tools**                            |  Hein   |              |
-|  40  |  5/10     |   6       | Multi-Object Synchronization                     |  Hein   |              |
+|  40  |  5/10     |   6       | Multi-Object Synchronization                     |  Hein   | D123 14-16   |
 |      |  7/10     | Lab 5     | Threads and Protection                           |  Hein   |              |
-|  41  | 12/10     |   7       | Scheduling                                       |  Hein   |              |
+|  41  | 12/10     |   7       | Scheduling                                       |  Hein   | D123 14-16   |
 |      | **14/10** | **Lab 5** | **Threads and Protection**                       |  Hein   |              |
-|  42  | 19/10     |   8       | Address Translation                              |  Hein   |              |
+|  42  | 19/10     |   8       | Address Translation                              |  Hein   | D123 14-16   |
 |      | 21/10     | Lab 7     | ZapLab: TV channel statistics                    |  Hein   |              |
-|  43  | 26/10     |   9       | Caching and Virtual Memory                       |  Hein   |              |
+|  43  | 26/10     |   9       | Caching and Virtual Memory                       |  Hein   | Only 12-14 (expect changes this week)   |
 |      | 28/10     | Lab 7     | ZapLab: TV channel statistics                    |  Hein   |              |
 |  44  |  2/11     |           | No lecture                                       |         | OSDI         |
 |      |  4/11     |           | No lab assistance                                |         | OSDI         |
