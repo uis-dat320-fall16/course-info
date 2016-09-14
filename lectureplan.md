@@ -18,12 +18,13 @@
 |      |  16/9     |           | Video: Go Concurrency                            |  Hein   |              |
 |      |  **16/9** | **Lab 2** | **Introduction to Go programming**               |  Hein   |              |
 |  38  |  21/9     |           | No lecture                                       |         |              |
-|      |  **23/9** | **Lab 3** | **Network Programming with Go**                  |  Hein   |              |
+|      |  23/9     |   Lab 3   | Network Programming with Go                      |  Hein   |              |
 |  39  |  28/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
 |      |  28/9     |   6       | Multi-Object Synchronization                     |  Hein   |              |
-|      |  **30/9** | **Lab 4** | **Programming Tools**                            |  Hein   |              |
+|      |  **30/9** | **Lab 3** | **Network Programming with Go**                  |  Hein   |              |
 |  40  |  5/10     |   6       | Multi-Object Synchronization                     |  Hein   | D123 14-16   |
-|      |  7/10     | Lab 5     | Threads and Protection                           |  Hein   |              |
+|      |  **7/10** | **Lab 4** | **Programming Tools**                            |  Hein   |              |
+|      |  7/10 (TO FIX)     | Lab 5     | Threads and Protection                           |  Hein   |              |
 |  41  | 12/10     |   7       | Scheduling                                       |  Hein   | D123 14-16   |
 |      | **14/10** | **Lab 5** | **Threads and Protection**                       |  Hein   |              |
 |  42  | 19/10     |   8       | Address Translation                              |  Hein   | D123 14-16   |
