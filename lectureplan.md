@@ -19,24 +19,18 @@
 |      |  **16/9** | **Lab 2** | **Introduction to Go programming**               |  Hein   |              |
 |  38  |  21/9     |           | No lecture                                       |         |              |
 |      |  23/9     |   Lab 3   | Network Programming with Go                      |  Hein   |              |
-|  39  |  28/9     |   5       | Synchronizing Access to Shared Objects           |  Hein   |              |
-|      |  28/9     |   6       | Multi-Object Synchronization                     |  Hein   |              |
-|      |  **30/9** | **Lab 3** | **Network Programming with Go**                  |  Hein   |              |
-|  40  |  5/10     |   6       | Multi-Object Synchronization                     |  Hein   | D123 14-16   |
-|      |  **7/10** | **Lab 4** | **Programming Tools**                            |  Hein   |              |
-|      |  7/10 (TO FIX)     | Lab 5     | Threads and Protection                           |  Hein   |              |
-|  41  | 12/10     |   7       | Scheduling                                       |  Hein   | D123 14-16   |
-|      | **14/10** | **Lab 5** | **Threads and Protection**                       |  Hein   |              |
-|  42  | 19/10     |   8       | Address Translation                              |  Hein   | D123 14-16   |
-|      | 21/10     | Lab 7     | ZapLab: TV channel statistics                    |  Hein   |              |
-|  43  | 26/10     |   9       | Caching and Virtual Memory                       |  Hein   | Only 12-14 (expect changes this week)   |
-|      | 28/10     | Lab 7     | ZapLab: TV channel statistics                    |  Hein   |              |
+|  39  |  28/9     |           | Lecture canceled                                 |  Hein   |              |
+|  40  |  5/10     |   5       | Synchronizing Access to Shared Objects           |  Hein   | D123 14-16   |
+|      |  **7/10** | **Lab 3** | **Network Programming with Go**                  |  Hein   |              |
+|  41  | 12/10     |   6       | Multi-Object Synchronization                     |  Hein   | D123 14-16   |
+|      | **14/10** | **Lab 4** | **Programming Tools**                            |  Hein   |              |
+|  42  | 19/10     |   7       | Scheduling                                       |  Hein   | D123 14-16   |
+|      | **21/10** | **Lab 5** | **Threads and Protection**                       |  Hein   |              |
+|  43  | 26/10     |   8       | Address Translation                              |  Hein   | Only 12-14 (expect changes this week) |
 |  44  |  2/11     |           | No lecture                                       |         | OSDI         |
 |      |  4/11     |           | No lab assistance                                |         | OSDI         |
-|  45  |  9/11     |  10       | Advanced Memory Management                       |  Hein   |              |
-|      | **11/11** | **Lab 7** | **ZapLab: TV channel statistics**                |  Hein   |              |
-|  46  | 16/11     |           | No lecture                                       |  Hein   |              |
-|      | 18/11     |           | Final Handin Date (w/5 slip days)                |  Hein   |              |
-|  47  | 23/11     |           | No lecture                                       |         |              |
-|      | 25/11     |           | **Lab Exam**                                     |         |              |
-|  ??  | ??/12     |           | **Exam**                                         |         |              |
+|  45  |  9/11     |   9       | Caching and Virtual Memory                       |  Hein   |              |
+|  46  | 16/11     |  10       | Advanced Memory Management                       |  Hein   |              |
+|      | **18/11** | **Lab 7** | **ZapLab: TV channel statistics**                |  Hein   |              |
+|  47  | 25/11     |           | **Lab Exam**                                     |  Hein   |              |
+|  49  |  9/12     |           | **Exam**                                         |         |              |
