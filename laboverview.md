@@ -1,4 +1,6 @@
-##Lab Overview
+##Lab Overview (outdated)
+
+This schedule is not updated. Please consult the lecture-plan instead for the deadlines. Also note that lab 6 has been made voluntary.
 
 | Lab | Topic                                                                                  | Grading   | Submission         | Deadline | 
 |:---:|----------------------------------------------------------------------------------------|-----------|--------------------|:--------:|
