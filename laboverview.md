@@ -1,6 +1,6 @@
 ##Lab Overview (outdated)
 
-This schedule is not updated. Please consult the lecture-plan instead for the deadlines. Also note that lab 6 has been made voluntary.
+This schedule is not updated. Please consult the [lecture plan](https://github.com/uis-dat320-fall16/course-info/blob/master/lectureplan.md) instead for the deadlines. Also note that lab 6 has been made voluntary.
 
 | Lab | Topic                                                                                  | Grading   | Submission         | Deadline | 
 |:---:|----------------------------------------------------------------------------------------|-----------|--------------------|:--------:|
