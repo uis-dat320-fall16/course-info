@@ -17,7 +17,7 @@ All chapters listed below, published slides from It's learning, code snippets fr
 | 8       | All. *Chapters 8.1-8.3 are important.* Chapter 8.4 not on exam.                   |
 | 9       | All important.                                                                    |
 | 10      | All. *Chapters 10.1-10.3 are important.*                                          |
-| 11      | All; this should be well-known material. Will not be important on exam.           |
-| 12      | All.                                                                              |
-| 13      | All. *Chapter 13.3 is important.*                                                 |
-| 14      | All. *Chapter 14.1 is important.*                                                 |
+| ~~11~~      | ~~All; this should be well-known material. Will not be important on exam.~~           |
+| ~~12~~      | ~~All.~~                                                                              |
+| ~~13~~      | ~~All. *Chapter 13.3 is important.*~~                                                 |
+| ~~14~~      | ~~All. *Chapter 14.1 is important.*~~                                                 |
